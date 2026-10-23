@@ -3019,8 +3019,13 @@ packages:
     engines: {node: ^14 || ^16 || >=18}
     hasBin: true
 
+<<<<<<< HEAD
   napi-postinstall@0.3.6:
     resolution: {integrity: sha512-RzlO2IIhNxWEahiVrwUYvk+PRoP2SdKLTUt7Yfmwjstc2MRULti2uwc9EkBRTMwkYtfITwVzgBLkS4K4esCRGg==}
+=======
+  napi-postinstall@0.3.7:
+    resolution: {integrity: sha512-jyU4cU4kVAmy/3qjP+DcoQTNXfINHc+dFw54gGqWC8nu0mpV0kOnk7kff+J+Q18SbX0k3Np8Rm7yFjd3phatNQ==}
+>>>>>>> 9aadd35b2a8c888b756179046743cbf920a1a0c8
     engines: {node: ^12.20.0 || ^14.18.0 || >=16.0.0}
     hasBin: true
 
@@ -7282,7 +7287,11 @@ snapshots:
 
   nanoid@4.0.2: {}
 
+<<<<<<< HEAD
   napi-postinstall@0.3.6: {}
+=======
+  napi-postinstall@0.3.7: {}
+>>>>>>> 9aadd35b2a8c888b756179046743cbf920a1a0c8
 
   natural-compare@1.4.0: {}
 
@@ -8349,7 +8358,11 @@ snapshots:
 
   unrs-resolver@1.12.2:
     dependencies:
+<<<<<<< HEAD
       napi-postinstall: 0.3.6
+=======
+      napi-postinstall: 0.3.7
+>>>>>>> 9aadd35b2a8c888b756179046743cbf920a1a0c8
     optionalDependencies:
       '@unrs/resolver-binding-android-arm-eabi': 1.12.2
       '@unrs/resolver-binding-android-arm64': 1.12.2
